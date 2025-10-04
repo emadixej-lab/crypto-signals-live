@@ -1,5 +1,267 @@
 {
-  "last_update": "",
-  "prices": {},
-  "signals": []
+  "last_update": "2025-10-04T09:50:46.654166+00:00",
+  "prices": {
+    "BTCUSDT": 122236.03,
+    "ETHUSDT": 4493.04,
+    "BNBUSDT": 1152.08,
+    "SOLUSDT": 228.58,
+    "AVAXUSDT": 30.53,
+    "XRPUSDT": 2.9993,
+    "XAUTUSDT": 3883.56,
+    "ADAUSDT": 0.8458,
+    "SUIUSDT": 3.5167,
+    "DOTUSDT": 4.23,
+    "TRXUSDT": 0.3402,
+    "CAKEUSDT": 3.427,
+    "HBARUSDT": 0.22114,
+    "LTCUSDT": 118.45,
+    "LINKUSDT": 21.88,
+    "XLMUSDT": 0.3972,
+    "DOGEUSDT": 0.25096,
+    "HYPEUSDT": 48.45,
+    "BCHUSDT": 588.1,
+    "TONUSDT": 2.818,
+    "XTZUSDT": 0.6933,
+    "XMRUSDT": 326.02,
+    "AAVEUSDT": 284.35,
+    "SHIBUSDT": 1.248e-05,
+    "DAIUSDT": 0.9989,
+    "TRUMPUSDT": 7.766,
+    "UNIUSDT": 7.987,
+    "PEPEUSDT": 9.93e-06,
+    "NEARUSDT": 2.951,
+    "APTUSDT": 5.312,
+    "ONDOUSDT": 0.92419,
+    "FLOKIUSUT": null,
+    "LDOUSDT": 1.2117,
+    "PAXGUSDT": 3890.19,
+    "ALGOUSDT": 0.2202,
+    "ATOMUSDT": 4.143,
+    "ARBUSDT": 0.4372,
+    "TAOUSDT": 317.08
+  },
+  "signals": [
+    {
+      "symbol": "BTCUSDT",
+      "score": 1,
+      "rec": "neutral",
+      "price": 122236.13
+    },
+    {
+      "symbol": "ETHUSDT",
+      "score": 1,
+      "rec": "neutral",
+      "price": 4493.16
+    },
+    {
+      "symbol": "BNBUSDT",
+      "score": -1,
+      "rec": "neutral",
+      "price": 1152.08
+    },
+    {
+      "symbol": "SOLUSDT",
+      "score": 1,
+      "rec": "neutral",
+      "price": 228.58
+    },
+    {
+      "symbol": "AVAXUSDT",
+      "score": -2,
+      "rec": "lean_short",
+      "price": 30.54
+    },
+    {
+      "symbol": "XRPUSDT",
+      "score": -1,
+      "rec": "neutral",
+      "price": 2.9999
+    },
+    {
+      "symbol": "XAUTUSDT",
+      "score": 1,
+      "rec": "neutral",
+      "price": 3883.56
+    },
+    {
+      "symbol": "ADAUSDT",
+      "score": -2,
+      "rec": "lean_short",
+      "price": 0.8459
+    },
+    {
+      "symbol": "SUIUSDT",
+      "score": -3,
+      "rec": "lean_short",
+      "price": 3.5171
+    },
+    {
+      "symbol": "DOTUSDT",
+      "score": -1,
+      "rec": "neutral",
+      "price": 4.23
+    },
+    {
+      "symbol": "TRXUSDT",
+      "score": -1,
+      "rec": "neutral",
+      "price": 0.3402
+    },
+    {
+      "symbol": "CAKEUSDT",
+      "score": -1,
+      "rec": "neutral",
+      "price": 3.429
+    },
+    {
+      "symbol": "HBARUSDT",
+      "score": -3,
+      "rec": "lean_short",
+      "price": 0.22121
+    },
+    {
+      "symbol": "LTCUSDT",
+      "score": 1,
+      "rec": "neutral",
+      "price": 118.44
+    },
+    {
+      "symbol": "LINKUSDT",
+      "score": -3,
+      "rec": "lean_short",
+      "price": 21.89
+    },
+    {
+      "symbol": "XLMUSDT",
+      "score": -2,
+      "rec": "lean_short",
+      "price": 0.3973
+    },
+    {
+      "symbol": "DOGEUSDT",
+      "score": -2,
+      "rec": "lean_short",
+      "price": 0.25089
+    },
+    {
+      "symbol": "HYPEUSDT",
+      "score": -3,
+      "rec": "lean_short",
+      "price": 48.45
+    },
+    {
+      "symbol": "BCHUSDT",
+      "score": 0,
+      "rec": "neutral",
+      "price": 588.2
+    },
+    {
+      "symbol": "TONUSDT",
+      "score": -1,
+      "rec": "neutral",
+      "price": 2.818
+    },
+    {
+      "symbol": "XTZUSDT",
+      "score": -2,
+      "rec": "lean_short",
+      "price": 0.6933
+    },
+    {
+      "symbol": "XMRUSDT",
+      "score": 3,
+      "rec": "lean_long",
+      "price": 326.02
+    },
+    {
+      "symbol": "AAVEUSDT",
+      "score": -3,
+      "rec": "lean_short",
+      "price": 284.35
+    },
+    {
+      "symbol": "SHIBUSDT",
+      "score": -1,
+      "rec": "neutral",
+      "price": 1.248e-05
+    },
+    {
+      "symbol": "DAIUSDT",
+      "score": -1,
+      "rec": "neutral",
+      "price": 0.999
+    },
+    {
+      "symbol": "TRUMPUSDT",
+      "score": -1,
+      "rec": "neutral",
+      "price": 7.766
+    },
+    {
+      "symbol": "UNIUSDT",
+      "score": -2,
+      "rec": "lean_short",
+      "price": 7.987
+    },
+    {
+      "symbol": "PEPEUSDT",
+      "score": -1,
+      "rec": "neutral",
+      "price": 9.93e-06
+    },
+    {
+      "symbol": "NEARUSDT",
+      "score": -1,
+      "rec": "neutral",
+      "price": 2.951
+    },
+    {
+      "symbol": "APTUSDT",
+      "score": 1,
+      "rec": "neutral",
+      "price": 5.312
+    },
+    {
+      "symbol": "ONDOUSDT",
+      "score": -3,
+      "rec": "lean_short",
+      "price": 0.92419
+    },
+    {
+      "symbol": "LDOUSDT",
+      "score": -3,
+      "rec": "lean_short",
+      "price": 1.2111
+    },
+    {
+      "symbol": "PAXGUSDT",
+      "score": 3,
+      "rec": "lean_long",
+      "price": 3890.18
+    },
+    {
+      "symbol": "ALGOUSDT",
+      "score": -3,
+      "rec": "lean_short",
+      "price": 0.2201
+    },
+    {
+      "symbol": "ATOMUSDT",
+      "score": -2,
+      "rec": "lean_short",
+      "price": 4.14
+    },
+    {
+      "symbol": "ARBUSDT",
+      "score": -3,
+      "rec": "lean_short",
+      "price": 0.4372
+    },
+    {
+      "symbol": "TAOUSDT",
+      "score": -3,
+      "rec": "lean_short",
+      "price": 317.06
+    }
+  ]
 }
